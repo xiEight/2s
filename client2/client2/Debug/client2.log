@@ -1,0 +1,6 @@
+﻿  Client.cpp
+C:\Users\Admin\source\repos\client2\client2\Client.cpp(65,35): warning C4018: <: несоответствие типов со знаком и без знака
+  ServerException.cpp
+  client2.cpp
+  Создание кода...
+  client2.vcxproj -> C:\Users\Admin\source\repos\client2\Debug\client2.exe
